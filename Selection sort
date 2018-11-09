@@ -10,9 +10,9 @@ def Selection_Sort(arr):
 
 
 
-list= [14, 33, 27, 10, 35, -1, 45]
+array= [14, 33, 27, 10, 35, -1, 45]
 print("Array:   ")
-print(list)
-Selection_Sort(list)
+print(array)
+Selection_Sort(array)
 print("Sorted array!")
-print(list)
+print(array)
