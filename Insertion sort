@@ -8,9 +8,9 @@ def Insertion_Sort(arr):
        arr[j + 1] = gecici
 
 
-list= [14, 33, 27, 10, 35, -1, 45]
+array= [14, 33, 27, 10, 35, -1, 45]
 print("Array:   ")
-print(list)
-Insertion_Sort(list)
+print(array)
+Insertion_Sort(arry)
 print("Sorted array!")
-print(list)
+print(array)
