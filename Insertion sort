@@ -11,6 +11,6 @@ def Insertion_Sort(arr):
 array= [14, 33, 27, 10, 35, -1, 45]
 print("Array:   ")
 print(array)
-Insertion_Sort(arry)
+Insertion_Sort(array)
 print("Sorted array!")
 print(array)
